@@ -4,7 +4,7 @@
 **Unlock Himalayan Vitality™**
 
 ## Introduction
-This requirements document outlines a plan to build a niche e-commerce site selling pure Himalayan Shilajit, inspired by goldenshilajit.pk. The goal is to create a trustworthy, educational, and seamless buying experience using a tech stack suitable for simple web hosting (e.g., Hostinger shared hosting). This document supports experimenting with different technology stacks.
+This requirements document outlines a plan to build a niche e-commerce site selling pure Himalayan Shilajit, inspired by goldenshilajit.pk. The goal is to create a trustworthy, educational, and seamless buying experience using a tech stack suitable for simple web hosting (e.g., Hostinger shared hosting). This document supports experimenting with different technology stacks. All legal and customer policies are considered core requirements—refer to the individual sections and policy notes below.
 
 Brand Name: **ShilajitNorth**
 Slogan: **Unlock Himalayan Vitality™**
@@ -78,11 +78,11 @@ Slogan: **Unlock Himalayan Vitality™**
 - WhatsApp link/button
 - Email and phone info
 
-### 8. Policy Pages
-- Refund Policy (3 or 7 days after delivery—specify which one in development phase)
-- Privacy Policy
-- Shipping Policy
-- Terms of Service
+### 8. Policy Pages (for Copilot/code reference and generation)
+- **Refund Policy:** Refund requests accepted within 3 or 7 days after delivery (choose exact value during site development phase)
+- **Privacy Policy:** Commitment to protecting user data and privacy. Must outline data collection, use, and protection practices.
+- **Shipping Policy:** Methods, estimated delivery times, any shipping costs, and how customers can track their orders.
+- **Terms of Service:** Customer obligations and rights, company obligations, disclaimers, dispute resolution, and compliance as per local/international e-commerce law best practices.
 
 ---
 
