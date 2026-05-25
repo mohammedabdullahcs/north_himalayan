@@ -1,7 +1,13 @@
-# Project Requirements for Niche Shilajit E-Commerce Site
+# ShilajitNorth — Project Requirements for Niche Shilajit E-Commerce Site
+
+## Slogan
+**Unlock Himalayan Vitality™**
 
 ## Introduction
 This requirements document outlines a plan to build a niche e-commerce site selling pure Himalayan Shilajit, inspired by goldenshilajit.pk. The goal is to create a trustworthy, educational, and seamless buying experience using a tech stack suitable for simple web hosting (e.g., Hostinger shared hosting). This document supports experimenting with different technology stacks.
+
+Brand Name: **ShilajitNorth**
+Slogan: **Unlock Himalayan Vitality™**
 
 ---
 
