@@ -94,7 +94,7 @@ Slogan: **Unlock Himalayan Vitality™**
 
 ---
 
-## Design Principles (Inspired by GoldenShilajit.pk)
+## Design Principles
 - Warm, natural colors (browns, golds, whites)
 - Clean, bold typography
 - Large, trust-filled hero with product and trust badges visible immediately
@@ -172,44 +172,10 @@ Slogan: **Unlock Himalayan Vitality™**
 
 ---
 
-## Appendix: Heading & Section Structure Reference (from Golden Shilajit PK)
+## Appendix: Heading & Section Structure Reference 
 
 To guide UI development, page/component layout, and semantic HTML, use the following heading structure as design and content reference. Copilot should utilize these when generating landing sections, home/product details, and benefit or trust blocks.
 
-### Section Heading Structure (from GoldenShilajit.pk)
-
-```
-<h1>Golden Shilajit Pakistan - 100% Pure Himalayan Resin
-<h2>We sell one thing. Pure Shilajit. Nothing else.
-<h2>Real Power
-<h3>Boosts Testosterone
-<h3>Increases Stamina
-<h3>Enhances Focus
-<h4>Memory Boost
-<h4>Better Sleep
-<h4>Mood Balance
-<h4>Built on Trust, Proven by Science
-<h4>From the Peaks of the Himalayas.
-<h4>WHY GOLDEN SHILAJIT IS DIFFERENT
-<h4>TESTED, VERIFIED, AND TRUSTED
-<h5>Other brands
-<h5>Golden Shilajit
-<h6>Additives dilute potency
-<h6>Cheap honey hides low-quality resin
-<h6>Pure resin is what traditional healers used for centuries
-<h6>Golden Shilajit 20g – Pure Himalayan Shilajit
-<h6>Golden Shilajit 10g – Pure Himalayan Shilajit
-<h6>Golden Shilajit Organic Drops 30ml X 2 (60ml)
-<h6>Eurofins Labs
-<h6>ISO 22000
-<h6>GMP | Halal | Non-GMO
-<h6>Verified for Safety
-<h6>Fast Delivery in Pakistan
-<h6>Trusted Worldwide
-```
-- Use or adapt these headings as HTML template snippets or landing section cues.
-- Fill [Missing heading] blocks with appropriate calls to action, informative headlines, or marketing copy, as needed by page context.
-- These headings serve as guide for SEO-friendly, semantic sections and rapid UI prototyping.
 
 ---
 
