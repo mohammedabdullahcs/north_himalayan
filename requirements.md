@@ -129,6 +129,49 @@ Slogan: **Unlock Himalayan Vitality™**
 
 ---
 
+## Generalized Homepage & Brand Messaging Structure (Inspiration Guide)
+
+**Brand Promise & Product Focus**
+- Main headline centers on purity and origin (e.g., "100% Pure Himalayan Resin")
+- Emphasize a single-product focus (e.g., “We sell one thing. Pure Shilajit. Nothing else.”)
+
+**Product Variations** (as needed)
+- Offerings in different sizes or forms (e.g., 20g, 10g, drops)
+
+**Brand Differentiators**
+- Stress additive-free nature (“Why we never add anything,” “Pure resin as used for centuries”)
+- Explain what lesser brands do (“Additives dilute potency,” “Cheap fillers mask quality”)
+
+**Benefit-Oriented Headings**
+- Real Power: List scientifically-backed benefits like
+  - Boosts Testosterone
+  - Increases Stamina
+  - Enhances Focus
+  - Improves Memory, Sleep, Mood Balance
+
+**Trust & Proof**
+- Built on Trust, Proven by Science
+- Highlight quality processes/certifications (e.g., tested, verified, trusted lab protocols, or quality badges such as “GMP,” “ISO,” “Halal”)
+- Fast, safe delivery highlighted
+- Trusted by many customers (expressed with numbers or years)
+
+**Global & Local Appeal**
+- Messaging for both local (e.g., “Fast Delivery in Pakistan”) and international buyers.
+
+**Calls to Action or Social Proof**
+- “Try It Once. You’ll Feel the Difference.”
+- Show testimonials, batch certifications, and logistics (verified for safety, trusted worldwide)
+
+---
+
+### Usage Guidance for Copilot
+- When building your homepage, product, and section headings, use structures above to create:
+  - Trust-building, benefit-driven, and clean headline hierarchy (h1-h6)
+  - Content should remain original but draw on these proven messaging styles
+- Missing heading levels should be filled as appropriate for clear calls to action, education, and conversion focus.
+
+---
+
 ## Appendix: Heading & Section Structure Reference (from Golden Shilajit PK)
 
 To guide UI development, page/component layout, and semantic HTML, use the following heading structure as design and content reference. Copilot should utilize these when generating landing sections, home/product details, and benefit or trust blocks.
